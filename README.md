@@ -1,4 +1,5 @@
-## Hi there 👋
+<img width="736" height="736" alt="1000022727" src="https://github.com/user-attachments/assets/3b2573b6-b1b9-4cdc-bd20-629ebeaefb66" />
+
 
 <!--
 **ANTlDOTE/ANTlDOTE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
